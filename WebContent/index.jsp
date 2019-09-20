@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>SSDI Virtual Env Assignment</title>
+<title>Virtual Env Assignment</title>
 </head>
 <body>
 	<h1>Hello Welcome to Student Database</h1>
